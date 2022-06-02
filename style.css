@@ -1,5 +1,5 @@
 body {
-	background:#341261;
+	background:rgb(18, 55, 97);
 	background:purple;
 	background-image: linear-gradient(to bottom, rgb(42, 127, 206), rgb(91, 16, 153));
 	background-repeat: no-repeat;
@@ -31,3 +31,12 @@ img{
 	-webkit-box-reflect:below  20px;
 	
 }
+a{ 
+	color:blue ;
+}
+a: :hover{
+	color: purple;
+}
+a:visited{
+	color: whitesmoke;
+} 
